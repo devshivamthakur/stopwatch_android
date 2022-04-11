@@ -1,3 +1,1 @@
-# Android_Project-code
-Android, java,Xml
-it is stopwatch application 
+it is stopwatch application . developed by using android java
